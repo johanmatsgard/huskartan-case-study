@@ -2,6 +2,8 @@
 
 Scores Swedish houses on how likely they are to be a good fit for a new heating system, and when. The code is private, so this is a short write-up.
 
+<img src="assets/huskartan.webp" alt="Huskartan scores every house in Sweden" width="100%">
+
 Each address gets three sub-scores that combine into one:
 
 | Score | Question |
